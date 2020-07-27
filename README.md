@@ -5,13 +5,16 @@
       something
     
   * Week 2
-    -something
+    * 0803
+      something
     
   * Week 3
-    -something
+    * 0810
+      something
     
   * Week 4
-    -something
+    * 0817
+      something
     
 ### THANKS FOR WATCHING 
  
