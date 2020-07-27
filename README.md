@@ -2,16 +2,16 @@
   AUTHORS:陳晁偉
   ## Week 1
   ### 0727
-    <u>something</u>
+    something
     
   ## Week 2
-    *something
+    something
     
   ## Week 3
-    *something
+    something
     
   ## Week 4
-    *something
+    something
     
 ### THANKS FOR WATCHING 
  
