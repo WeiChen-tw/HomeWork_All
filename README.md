@@ -1,6 +1,6 @@
 # homeWork. 
-=
+  something
 ## day
--
-### thanks for watching 
+  something
+### THANKS FOR WATCHING 
 #### AUTHORS:陳晁偉
