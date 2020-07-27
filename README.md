@@ -1,8 +1,8 @@
 # homeWork. 
   something
-## Week 1
-  ### 0727
-    *something
+  ## Week 1
+    ### 0727
+      *something
     
 ## Week 2
     *something
