@@ -5,13 +5,20 @@ jQuery(document).ready(function () {
     
     jQuery(".play-1, .play-2").yu2fvl();
     jQuery('.circleContent').owlCarousel({
-        items:5,
+        responsiveClass:true,
+        responsive:{
+            0:{items:1},
+            500:{items:3},
+            767:{items:4},
+            1299:{items:7}
+            
+        },
         loop:true,
         margin:1,
         center:true,
         autoplay:true,
         autoplayTimeout:1000,
-        lazyEffect:400
+       
     });
     jQuery(".owl-carousel4").owlCarousel(
         {
