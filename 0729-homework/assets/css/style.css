@@ -63,77 +63,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #03133a;
 }
     
-/* 40px */
-.toTop-arrow {
-	width: 2.5rem;
-	height: 2.5rem;
-	padding: 0;
-	margin: 0;
-	border: 0;
-	border-radius: 33%;
-	opacity: 0.6;
-	background: #000;
-	cursor: pointer;
-	position:fixed;
-	right: 1rem;
-	bottom: 1rem;
-	display: none;
-}
-.toTop-arrow::before, .toTop-arrow::after {
-	width: 18px;
-	height: 5px;
-	border-radius: 3px;
-	background: #f90;
-	position: absolute;
-	content: "";
-}
-.toTop-arrow::before {
-	transform: rotate(-45deg) translate(0, -50%);
-	left: 0.5rem;
-}
-.toTop-arrow::after {
-	transform: rotate(45deg) translate(0, -50%);
-	right: 0.5rem;
-}
-.toTop-arrow:focus {outline: none;}
 
 
-/* 48px */
-.toTop-arrow {
-	width: 3rem;
-	height: 3rem;
-	padding: 0;
-	margin: 0;
-	border: 0;
-	border-radius: 33%;
-	opacity: 0.6;
-	background: #000;
-	cursor: pointer;
-	position:fixed;
-	right: 1rem;
-	bottom: 1rem;
-	display: none;
-}
-.toTop-arrow::before, .toTop-arrow::after {
-	width: 25px;
-	height: 6px;
-	border-radius: 3px;
-	background: #f90;
-	position: absolute;
-	content: "";
-}
-.toTop-arrow::before {
-	transform: rotate(-45deg) translate(0, -50%);
-	left: 0.42rem;
-}
-.toTop-arrow::after {
-	transform: rotate(45deg) translate(0, -50%);
-	right: 0.42rem;
-}
-.toTop-arrow:focus {outline: none;}
-
-/* 56px */
-.toTop-arrow {
+.toWhere-arrow {
 	width: 3.5rem;
 	height: 3.5rem;
 	padding: 0;
@@ -146,9 +78,10 @@ h1, h2, h3, h4, h5, h6 {
 	position:fixed;
 	right: 1rem;
 	bottom: 1rem;
-	display: none;
+  display: none;
+  z-index: 3;
 }
-.toTop-arrow::before, .toTop-arrow::after {
+.toWhere-arrow::before, .toWhere-arrow::after {
 	width: 31px;
 	height: 7px;
 	border-radius: 3px;
@@ -156,19 +89,19 @@ h1, h2, h3, h4, h5, h6 {
 	position: absolute;
 	content: "";
 }
-.toTop-arrow::before {
-	transform: rotate(-45deg) translate(0, -50%);
+.toWhere-arrow::before {
+	transform: rotate(-45deg) translate(10%, -50%);
 	left: 0.4rem;
-}
-.toTop-arrow::after {
-	transform: rotate(45deg) translate(0, -50%);
+} 
+.toWhere-arrow::after {
+	transform: rotate(-45deg) translate(0%, 0%);
 	right: 0.4rem;
 }
 
-.toTop-arrow:focus {outline: none;}
+.toWhere-arrow:focus {outline: none;} */
 
 header .card a, .vr-gallery a.btn {
-  background-color: #03133a;
+  background-color: #3b528b;
   width: 200px;
   padding: 12px 0;
   color: #ffffff;

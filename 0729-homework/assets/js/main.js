@@ -97,24 +97,32 @@ jQuery(document).ready(function () {
     jQuery('#BackTop').click(function(){ 
         $('html,body').animate({scrollTop:0}, 333);
     });
+    jQuery('#BackEnd').click(function(){ 
+        $('html,body').animate({scrollTop:$(document).height()}, 333);
+    });
     jQuery(window).scroll(function() {
     if ( $(this).scrollTop() > 300 ){
         $('#BackTop').fadeIn(222);
     } else {
         $('#BackTop').stop().fadeOut(222);
     }
-    }).scroll();
-
-    jQuery('#BackEnd').click(function(){         
-        $('html,body').animate({scrollTop:$("body").height()}, 333);
-    });
-    jQuery(window).scroll(function() {
     if ( $(this).scrollTop() > 300 ){
         $('#BackEnd').stop().fadeOut(222);
     } else {
         $('#BackEnd').fadeIn(222);
     }
     }).scroll();
+
+    // jQuery('#BackEnd').click(function(){         
+    //     $('html,body').animate({scrollTop:$("body").height()}, 333);
+    // });
+    // jQuery(window).scroll(function() {
+    // if ( $(this).scrollTop() > 300 ){
+    //     $('#BackEnd').stop().fadeOut(222);
+    // } else {
+    //     $('#BackEnd').fadeIn(222);
+    // }
+    // }).scroll();
 });
 
 function myFunction(x) {
