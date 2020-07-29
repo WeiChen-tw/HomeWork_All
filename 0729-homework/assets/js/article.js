@@ -59,6 +59,9 @@ function myFunction(x) {
     x.classList.toggle("change");
 }
 
+function getRandom(x){
+    return Math.floor(Math.random()*x)+1(".jpg");
+}
 
 
 jQuery(".link-img").click(function () {

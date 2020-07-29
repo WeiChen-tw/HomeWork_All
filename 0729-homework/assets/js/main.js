@@ -20,6 +20,30 @@ jQuery(document).ready(function () {
         autoplayTimeout:1000,
        
     });
+    jQuery(".owl-carousel2").owlCarousel(
+        {
+            loop: false,
+            center: false,
+            margin: 10,
+            responsiveClass: true,
+            nav: false,
+            responsive: {
+                0: {
+                    items: 1,
+
+                },
+                600: {
+                    items: 2,
+
+                },
+                1000: {
+                    items: 3,
+                    nav: false,
+                    loop: false
+                }
+            }
+        }
+    );
     jQuery(".owl-carousel4").owlCarousel(
         {
             loop: true,
@@ -69,13 +93,33 @@ jQuery(document).ready(function () {
             }
         }
     );
+    
+    jQuery('#BackTop').click(function(){ 
+        $('html,body').animate({scrollTop:0}, 333);
+    });
+    jQuery(window).scroll(function() {
+    if ( $(this).scrollTop() > 300 ){
+        $('#BackTop').fadeIn(222);
+    } else {
+        $('#BackTop').stop().fadeOut(222);
+    }
+    }).scroll();
 
+    jQuery('#BackEnd').click(function(){         
+        $('html,body').animate({scrollTop:$("body").height()}, 333);
+    });
+    jQuery(window).scroll(function() {
+    if ( $(this).scrollTop() > 300 ){
+        $('#BackEnd').stop().fadeOut(222);
+    } else {
+        $('#BackEnd').fadeIn(222);
+    }
+    }).scroll();
 });
 
 function myFunction(x) {
     x.classList.toggle("change");
 }
-
 
 
 jQuery(".link-img").click(function () {
