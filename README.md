@@ -7,8 +7,8 @@
     * 0730
     * 0731
   * Week 2
-    * 0803
-      something
+    * [0803 & 0804.](https://medium.com/@tw_kaka/0803-mysql-ddac8b2a4cd3)
+      
     
   * Week 3
     * 0810
