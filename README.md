@@ -17,6 +17,5 @@
   * Week 4
     * 0817
       something
-    
-### THANKS FOR WATCHING 
+
  
