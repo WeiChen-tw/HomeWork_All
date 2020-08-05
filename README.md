@@ -7,8 +7,8 @@
     * 0730
     * 0731
   * Week 2
-    * [0803 & 0804.](https://medium.com/@tw_kaka/0803-mysql-ddac8b2a4cd3)
-      
+    * [0803 & 0804.](https://medium.com/@tw_kaka/0803-mysql-ddac8b2a4cd3) Select相關語法
+    * [0805.](https://medium.com/@tw_kaka/0805-資料表概念-資料表語法-ed0cb70a3a6b) 資料表概念＆資料表語法
     
   * Week 3
     * 0810
