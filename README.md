@@ -1,8 +1,8 @@
 # Note. 
   AUTHORS:陳晁偉
   * Week 1
-    * [0727.](https://medium.com/@tw_kaka/0727-%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98-git-github-c2842f700555)Git&GitHub
-    * [0728.](https://medium.com/@tw_kaka/javascript-ecd1e3322fcd)JavaScript
+    * [0727.](https://medium.com/@tw_kaka/0727-%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98-git-github-c2842f700555) Git&GitHub
+    * [0728.](https://medium.com/@tw_kaka/javascript-ecd1e3322fcd) JavaScript
     * 0729
     * 0730
     * 0731
