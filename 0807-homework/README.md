@@ -1,7 +1,7 @@
 # HomeWork-0807
 
-*1.多員工資料表對多訂單資料表
-*2.調整欄位可讀性 IF,ISNULL,CASE WHEN THAN
+##1.多員工資料表對多訂單資料表
+##2.調整欄位可讀性 IF,ISNULL,CASE WHEN THAN
 
 ---
 
