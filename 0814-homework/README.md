@@ -8,4 +8,4 @@ DEMO資料夾內含
 -DMEO VIDEO
 -Function Snapshot
 
-![image](picture or gif url)
+![image](https://github.com/weichen-chungyo/homeWork/blob/master/0814-homework/DEMO/ImgSubmit.PNG)
