@@ -20,7 +20,7 @@ wei_chen
 9. 新增-滑鼠動作改變圖片陰影
 10. 新增-快速至頂or快速至底 懸浮按鈕
 11. 修改
--index.html -videoUrl
+	-index.html -videoUrl
 			-playList
 			-textBox
 			-image
@@ -28,14 +28,14 @@ wei_chen
 			-class
 
 			
--article.html -textBox
+	-article.html -textBox
 			  -class
 			  -image
 			  -playList
 			
--style.css
--article.js
--main.js
+	-style.css
+	-article.js
+	-main.js
 ***
 
 Reference
