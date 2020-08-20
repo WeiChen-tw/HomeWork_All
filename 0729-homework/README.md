@@ -19,7 +19,7 @@ wei_chen
 8. 新增-跨頁面錨點(index.html to other_pet.html)
 9. 新增-滑鼠動作改變圖片陰影
 10. 新增-快速至頂or快速至底 懸浮按鈕
-11. 修改
+11. 修改 
 	-index.html -videoUrl
 			-playList
 			-textBox
