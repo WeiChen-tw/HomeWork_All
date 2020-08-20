@@ -8,10 +8,10 @@
 DEMO資料夾內含
 
 * 頁面跳轉流程圖
-  * ![image](https://github.com/weichen-chungyo/HomeWork_All/blob/master/0818-homework/IMAGE/頁面跳轉流圖.jpg)
+   ![image](https://github.com/weichen-chungyo/HomeWork_All/blob/master/0818-homework/IMAGE/頁面跳轉流圖.jpg)
 * 資料表
-  * ![image](https://github.com/weichen-chungyo/HomeWork_All/blob/master/0818-homework/IMAGE/資料表news.PNG)
+   ![image](https://github.com/weichen-chungyo/HomeWork_All/blob/master/0818-homework/IMAGE/資料表news.PNG)
 * 登出/入 操作畫面 
-  * ![image](https://github.com/weichen-chungyo/HomeWork_All/blob/master/0818-homework/IMAGE/0818-HW-DEMO.gif)
+   ![image](https://github.com/weichen-chungyo/HomeWork_All/blob/master/0818-homework/IMAGE/0818-HW-DEMO.gif)
 
 
