@@ -1,11 +1,11 @@
 wei_chen
-#0729-homework
+# 0729-homework
 
 
-##總共三個頁面
-##page1-index.html
-##page2-article.html
-##page3-other_pet.html
+## 總共三個頁面
+## page1-index.html
+## page2-article.html
+## page3-other_pet.html
 ***
 
 新增&修改項目 
