@@ -17,6 +17,9 @@
 .bs-callout .highlight {
     background-color: #fff;
 }
+.bgc-admin {
+    background-color: yellow;
+}
  
 /* Themes for different contexts */
 .bs-callout-danger {
