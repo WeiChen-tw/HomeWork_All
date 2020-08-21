@@ -9,8 +9,8 @@
     * [0805.](https://medium.com/@tw_kaka/0805-資料表概念-資料表語法-ed0cb70a3a6b) 資料表概念＆資料表語法
     
   * Week 3
-    * 0810
-      something
+    * [0810.](https://medium.com/@tw_kaka/0810-javascript-a248d2113374)JavaScript語法
+    * [0811]
     
   * Week 4
     * 0817
